@@ -1,8 +1,10 @@
+Permanent Home of Porject has moved to: https://github.com/tgh-apil/Reusable-N95-Project
+
 Orig: [William Ng et al.](#Team) www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
 Last: 1 May 2020
 
-# Reusable-N95-Project 
+# [Reusable-N95-Project](https://github.com/tgh-apil/Reusable-N95-Project) 
 ## [APIL](https://apil.ca)-[CIGITI](https://www.cigiti.ca)-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-McMaster-NOSM-[Queen's](http://ppekingston.squarespace.com/)-USASK-[UofT](https://www.3dppegtha.ca) collab
 ### Urgent design, testing, recommendation, upscale in industry, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
 - Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada, [see Article on Medium.com](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31)
@@ -201,7 +203,7 @@ Last: 1 May 2020
 #### [Manitoba Health Sciences Centre](https://github.com/cpetropolis/Simple-Silicone-Respirator)
 - Christian Petropolis (3DP Mask Lead, Plastics Surgery)
 - We agree to be their Ontario Partner
-#### Industry and NHH
+#### Industry
 - Rick Struthers (True North PP, owner)
 - Brian Read (ex-plastcs; industry co-ordinator) 
 #### Woodbridge indsutry, CEO Bob Magee
