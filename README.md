@@ -4,7 +4,7 @@ Orig: [William Ng et al.](#Team) www.anesthesia.utoronto.ca/faculty/william-ck-n
 
 Last: 1 May 2020
 
-Please read:[Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31?sk=8cc15ac6d79773021198b74c7c400207)
+Please read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31?sk=8cc15ac6d79773021198b74c7c400207)
 
 # [Reusable-N95-Project](https://github.com/tgh-apil/Reusable-N95-Project) 
 ## [APIL](https://apil.ca)-[CIGITI](https://www.cigiti.ca)-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-McMaster-NOSM-[Queen's](http://ppekingston.squarespace.com/)-USASK-[UofT](https://www.3dppegtha.ca) collab
